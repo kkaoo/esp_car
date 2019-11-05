@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+pymakr.conf
+.vscode/settings.json
+.gitignore
+.DS_Store
